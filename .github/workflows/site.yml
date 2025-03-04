@@ -47,9 +47,9 @@
         <div class="container">
             <h2>Контакты</h2>
             <div class="contact-card">
-                <h3>Николаев Андрей Валерьевич</h3>
-                <p>Телефон: <a href="tel:+79260445070">+7 926 044-50-70</a></p>
-                <p>Email: <a href="mailto:climaenergo@mail.ru">climaenergo@mail.ru</a></p>
+                name: "Николаев Андрей Валерьевич"
+                phone: "<p>Телефон: <a href='tel:+79260445070'>+7 926 044-50-70</a></p>"
+                email: "climaenergo@mail.ru"
             </div>
         </div>
     </section>
